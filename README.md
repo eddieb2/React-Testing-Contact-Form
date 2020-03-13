@@ -30,17 +30,17 @@ As a developer, you will be writing tests for every component. As we've learned,
 
 **Test Runner**
 
-- [ ] In a new terminal window, run `npm test`
-- [ ] With each saved change in your editor, the test runner will re-run all the tests
-- [ ] **IMPORTANT** If a test fails, use the test runner's error messages to find out why it is failing
+- [x] In a new terminal window, run `npm test`
+- [x] With each saved change in your editor, the test runner will re-run all the tests
+- [x] **IMPORTANT** If a test fails, use the test runner's error messages to find out why it is failing
 
 ## Instructions and/or completion requirements (MVP)
 
 In order to complete your mission for today, you will need to write tests to help you feel confident in shipping this component. Below is a _general_ outline of how to accomplish this.
 
-1. Take a good amount of time to use the form. Find out what behaviors you expect, and any you don't expect.
-1. Write down on a piece of paper what you want to test. (This is a very important step - always plan before coding!)
-1. Add your first test. This one should be a very simple test to make sure the testing setup is working.
+1. [x] Take a good amount of time to use the form. Find out what behaviors you expect, and any you don't expect.
+1. [x] Write down on a piece of paper what you want to test. (This is a very important step - always plan before coding!)
+1. [x] Add your first test. This one should be a very simple test to make sure the testing setup is working.
 1. Write a sufficient amount of tests to give you confidence in the project's code
 
 _If you come across any "unexpected" behaviors, try this flow:_
